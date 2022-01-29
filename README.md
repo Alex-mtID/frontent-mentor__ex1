@@ -1,4 +1,5 @@
 # Frontend Mentor - QR code component
+# https://alex-mtid.github.io/frontent-mentor__ex1/
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
